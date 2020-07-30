@@ -1,1 +1,0 @@
-git@github.com:nobuyuki-tominaga/TestRepository.git
